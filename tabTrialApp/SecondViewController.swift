@@ -17,7 +17,7 @@ class SecondViewController: UIViewController {
   
   @objc func updateUI() {
     print("yes \(self.navigationController?.visibleViewController)")
-    
+    print("Yo Yo Honey Singh")
   }
   
 
